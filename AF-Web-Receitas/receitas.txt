@@ -1,0 +1,536 @@
+"type": {
+          "category": {
+            "Entradas": {
+              "name": "Entradas",
+              "linkImg": "https://blog.atau.com.br/wp-content/uploads/2019/03/opcoes-de-entrada-restaurante.jpg",
+              "receitas": [
+                {
+                  "name": "Queijo Brie na Air Fryer",
+                  "rate": "3",
+                  "imgLink": "https://i.panelinha.com.br/i1/bk-2392-ayu1139-blog.webp",
+                  "description": "Uh lala! O queijo mais famoso da Europa ganhou várias camadas de sabor ao se deparar com a AirFryer da Rita Lobo. Em pouco minutinhos, o brie francês fica mais cremoso por dentro e com a casca dourada por fora. Além de ervas frescas e mel, figos frescos acompanham pra deixar a tábua de aperitivos ainda mais vistosa.",
+                  "ingredient": [
+                    "1 queijo brie",
+                    "1/4 de colher de azeite",
+                    "1 colher de Mel",
+                    "1/4 de colher de pimenta"
+                  ],
+                  "preparo": {
+                    "1": "Com a faca de legumes, faça cortes paralelos e transversais, a cada 1,5 cm, na peça de queijo sem chegar até o fim. Com cuidado para não quebrar a peça, dê uma leve abridinha no queijo com as mãos — assim ele absorve melhor o sabor do mel, do tomilho e da pimenta.",
+                    "2": "Preaqueça a AirFryer da linha Electrolux por Rita Lobo a 160 ºC e programe para assar por 10 minutos.",
+                    "3": "Coloque o queijo numa tigela pequena ou pratinho (que possa assar na AirFryer), polvilhe a pimenta calabresa, o tomilho debulhado e regue com o azeite e o mel.",
+                    "4": "Coloque a tigela no cesto da AirFryer e preste atenção ao tempo: se o queijo brie estiver mais maduro (mais próximo da data de validade), o miolo vai ser mais macio e em 5 minutos estará no ponto, derretendo. Caso contrário (queijo mais novo e fresco), o miolo vai estar mais firme; então, deixe o queijo brie assar por cerca de 8 minutos, para ficar com o miolo macio e aquecido — os queijos mais novos não chegam a derreter na AirFryer; evite deixar assar por muito tempo, pois o queijo pode ressecar.",
+                    "5": "Sirva a seguir com pães, castanhas, frutas frescas e secas."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 Porções"
+                },
+                {
+                  "name": "Milho com manteiga",
+                  "rate": "4",
+                  "imgLink": "https://i.panelinha.com.br/i1/bk-9071-blog-milho-verde-na-airfryer.webp",
+                  "description": "Você está diante da sua nova receita preferida. Na AirFryer, o milho ganha textura de grelhado, mas fica úmido ao mesmo tempo. A manteiga temperada dá o toque final (e vale até variar as especiarias e ervas para mudar o sabor dela). É uma opção que vai bem como acompanhamento ou como lanche da tarde.",
+                  "ingredient": [
+                    "1 espiga de milho-verde",
+                    "1 colher de manteiga",
+                    "1/2 colher de sal",
+                    "primenta-do-reino moida"
+                  ],
+                  "preparo": {
+                    "1": "Descarte a palha e o cabelo do milho e lave bem as espigas sob água corrente. Seque cada espiga com um pano de prato.",
+                    "2": "Lave, seque e pique fino a salsinha. Descasque e rale o dente de alho. Numa tigela pequena, coloque a manteiga, a salsinha e o alho. Tempere com o sal e pimenta e misture bem para formar uma pastinha.",
+                    "3": "Corte 3 retângulos de papel-alumínio um pouco maiores que as espigas de milho — cada espiga vai ser embalada separadamente para assar na AirFryer, e é isso que vai deixar o milho temperado e úmido.",
+                    "4": "Coloque uma espiga de milho no centro de um pedaço de papel-alumínio (com o lado brilhante para cima), meça 1 colher (sopa) da manteiga temperada e espalhe sobre toda a superfície do milho. Embale formando uma trouxinha bem justa — é importante fechar bem para que a manteiga não vaze. Repita o processo com o restante das espigas.",
+                    "5": "Preaqueça a AirFryer da linha Electrolux por Rita Lobo a 200 ºC e programe para assar por 30 minutos.",
+                    "6": "Coloque as espigas de milho no cesto, uma ao lado da outra, e deixe assar — não precisa virar na metade do tempo.",
+                    "7": "Com uma pinça, transfira as espigas para um prato e desembale com cuidado para não se queimar. Sirva a seguir com a manteiga derretida que sobrar na trouxinha.",
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "3 Porções"
+                },
+                {
+                  "name": "Croquete de carne moída",
+                  "rate": "5",
+                  "imgLink": "https://i.panelinha.com.br/i1/bk-4520-20240322-162202-01-blog-1-01.webp",
+                  "description": "Se vai ter festa, ele precisa ser convidado. A carne moída bem temperadinha e a farinha de rosca caseira fazem toda a diferença para que os croquetes fiquem macios e crocantes na medida certa. A receita rende 28 unidades. Sobrou? Pode congelar já empanado. Depois, é só mandar do freezer para o óleo quente.",
+                  "ingredient": [
+                    "500 g de acém moído",
+                    "1 cebola",
+                    "3 dentes de alho",
+                    "1/2 xícara (chá) de leite",
+                    "1/4 de xícara (chá) de farinha de trigo",
+                    "2 colheres (sopa) de extrato de tomate",
+                    "2 colheres (sopa) de molho inglês",
+                    "1 colher (sopa) de azeite",
+                    "1 colher (sopa) de manteiga",
+                    "1 colher (chá) de sal",
+                    "6 ramos de salsinha",
+                    "pimenta-do-reino moída na hora a gosto",
+                    "de xícara (chá) de farinha de trigo",
+                    "1 ovo",
+                    "1/2 xícara (chá) de farinha de rosca caseira",
+                    "2 xícaras (chá) de óleo para fritar"
+                  ],
+                  "preparo": {
+                    "1": "Retire a carne moída da geladeira e mantenha em temperatura ambiente enquanto prepara os outros ingredientes — se ela estiver gelada, vai soltar muita água na panela.",
+                    "2": "Descasque e pique fino a cebola e os dentes de alho. Lave, seque e pique fino a salsinha.",
+                    "3": "Leve uma panela média ao fogo médio para aquecer. Regue com o azeite, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Junte o alho e mexa por 2 minutos.",
+                    "4": "Adicione a manteiga. Quando derreter, coloque a carne moída, tempere com o sal e pimenta a gosto e deixe cozinhar por 6 minutos, mexendo de vez em quando, até a carne ficar cozida e bem soltinha. Junte o molho inglês, o extrato de tomate e mexa por 2 minutos, para dar sabor à carne.",
+                    "5": "Regue com o leite e misture. Junte a farinha e mexa bem por cerca de 5 minutos, até formar uma massa cremosa e bem úmida, que solte do fundo da panela. Para checar o ponto: a massa deve formar uma película fina no fundo da panela.",
+                    "6": "Misture a salsinha e transfira a massa de croquete para uma travessa pequena. Cubra com filme em contato e leve à geladeira para esfriar por, pelo menos, 1 hora (se preferir, prepare no dia anterior).",
+                    "7": "Para modelar os croquetes: retire 1 colher (sopa) da massa e modele com as mãos no formato de croquete, com cerca de 4 cm de comprimento.",
+                    "8": "Coloque a farinha de trigo num prato raso e a farinha de rosca numa tigela média (ou prato fundo). Num prato fundo, quebre o ovo e bata com o garfo apenas para misturar a clara com a gema.",
+                    "9": "Para empanar os croquetes: com uma das mãos, passe um croquete pela farinha de trigo e dê uma batidinha para tirar o excesso; com a outra mão, passe o croquete pelo ovo batido e deixe escorrer bem o excesso; em seguida, coloque o croquete na farinha de rosca e chacoalhe levemente a tigela — assim o croquete rola pela farinha de rosca, que cobrirá bem a superfície. Dê uma leve pressionada no croquete para ficar bem empanado com a farinha de rosca e transfira para outra travessa. Repita o processo com o restante da massa.",
+                    "10": "Leve uma panela pequena, de borda alta, com o óleo ao fogo médio para aquecer até atingir cerca de 180 ºC (se não tiver um termômetro, polvilhe um pouco da farinha de rosca no óleo; se borbulhar, está no ponto). Enquanto isso, forre uma travessa (ou assadeira) com papel-toalha.",
+                    "11": "Com a escumadeira, coloque delicadamente 4 croquetes no óleo quente e deixe dourar por cerca de 2 minutos. Com a escumadeira, retire os croquetes fritos da panela, deixando escorrer bem o óleo e transfira para a travessa forrada com papel-toalha. Repita a operação com o restante dos croquetes e sirva a seguir.",
+                  },
+                  "time": "Mais de 2h",
+                  "serve": "28 unidades"
+                },
+                {
+                  "name": "Coração de frango na frigideira",
+                  "rate": "2",
+                  "imgLink": "https://i.panelinha.com.br/i1/bk-4168-20240322-105039-blog.webp",
+                  "description": "O mais legal desta receita é que você não precisa esperar o churrasco para apreciar esse sabor intenso. Depois de cozido, o coração ganha um molho todo especial e pode virar a carne do pê-efe ou a estrela da happy hour.",
+                  "ingredient": [
+                    "500 g de coração de frango (cerca de 40 unidades)",
+                    "2 dentes de alho",
+                    "2 colheres (sopa) de caldo de limão",
+                    "1 colher (chá) de páprica doce",
+                    "1/2 colher (chá) de cominho em pó",
+                    "1 colher (sopa) de molho inglês",
+                    "1 colher (chá) de sal",
+                    "pimenta-do-reino moída na hora a gosto",
+                    "6 ramos de salsinha",
+                  ],
+                  "preparo": {
+                    "1": "Retire o coração de frango da geladeira e deixe em temperatura ambiente para perder o gelo enquanto separa o restante dos ingredientes.",
+                    "2": "Descasque e corte os dentes de alho em fatias finas. Lave, seque e pique fino a salsinha.",
+                    "3": "Numa tigela pequena, misture o caldo de limão com o molho inglês, a páprica, o cominho, o sal e pimenta-do-reino a gosto.",
+                    "4": "Leve uma frigideira grande ao fogo alto. Quando estiver bem quente, coloque os corações. Atenção: deixe cozinhar sem mexer por 5 minutos, ou até começarem a dourar — como a carne solta bastante gordura, nem precisa adicionar azeite.",
+                    "5": "Com a espátula, dê uma mexida nos corações e deixe cozinhar mais 2 minutos, também sem mexer, para dourar o outro lado. Adicione o alho e refogue por 2 minutos. Regue com o molho e misture rapidamente — cuidado para o molho não secar; é ele que dá o sabor ao preparo.",
+                    "6": "Desligue o fogo, misture a salsinha picada e sirva a seguir.",
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "Até 6 porções"
+                }
+              ]
+            },
+            "Principais": {
+              "name": "Principais",
+              "linkImg": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia27698/culinaria-mineira-cpt.jpg",
+              "receitas": [
+                  {
+                    "name": "Hambúrguer na AirFryer",
+                    "imgLink": "https://i.panelinha.com.br/i1/bk-3269-ayu1061.webp",
+                    "rate": "3",
+                    "description": "Aqui entre nós, o hambúrguer por delivery está com os dias contados. Em tempo recorde, você vai preparar não apenas um, mas dois hambúrgueres sem bagunça ou fumaça na cozinha. Tudo graças ao fornecedor mais rápido da cidade: a AirFryer da Rita Lobo.",
+                    "ingredient": [
+                        "180 g de acém moído",
+                        "180 g de costela bovina moída",
+                        "azeite",
+                        "sal moído na hora a gosto",
+                        "pimenta-do-reino moída na hora a gosto"
+                    ],
+                    "preparo": {
+                        "1": "Retire as carnes da geladeira 10 minutos antes de preparar os hambúrgueres – assim, depois de feitos na AirFryer, eles ficam mais tostadinhos.",
+                        "2": "Numa tigela, misture as carnes moídas com as mãos. Para modelar os hambúrgueres: forme uma bola e achate levemente sem compactar — se apertar muito, o hambúrguer não fica tão suculento. Ajeite a lateral do hambúrguer com a mão para a borda ficar retinha — o disco deve ter cerca de 2,5 cm de altura.",
+                        "3": "Com o dedão, aperte o centro dos hambúrgueres para fazer um buraquinho — isso ajuda a manter o formato durante o cozimento. Tempere as duas superfícies dos hambúrgueres com sal e pimenta moídos na hora — além de salgar, o sal moído na hora também dá textura aos hambúrgueres.",
+                        "4": "Preaqueça a AirFryer da linha Electrolux por Rita Lobo a 200 ºC e programe para assar por 10 minutos.",
+                        "5": "Pincele os dois lados dos hambúrgueres com azeite. Coloque um hambúrguer ao lado do outro no cesto da AirFryer, com o buraquinho para cima. Na metade do tempo (após 5 minutos), abra o cesto e vire os hambúrgueres com uma espátula. Pincele um pouco mais de azeite na superfície da carne e deixe terminar de assar.",
+                        "6": "Transfira os hambúrgueres prontos para um prato e deixe descansar por 2 minutos antes de servir — assim os sucos da carne se redistribuem e eles ficam mais suculentos. Eles ficam uma delícia servidos com molho de queijo azul."
+                    },
+                    "time": "Pá-Pum",
+                    "serve": "Até 2 porções"
+                },
+                {
+                  "name": "Salmão Grelhado",
+                  "rate": "4",
+                  "imgLink": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3271777:1661552221/Salm-o-Grelhado.jpg?f=default&$p$f=9d21cfc",
+                  "description": "Salmão grelhado na AirFryer, temperado com limão e ervas. Uma opção saudável e deliciosa para qualquer refeição.",
+                  "ingredient": [
+                    "2 filés de salmão",
+                    "suco de 1 limão",
+                    "1 dente de alho picado",
+                    "1 colher de sopa de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "ervas finas a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Tempere os filés de salmão com suco de limão, alho, azeite, sal, pimenta e ervas finas.",
+                    "2": "Deixe marinar por pelo menos 30 minutos para absorver bem os sabores.",
+                    "3": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "4": "Coloque os filés de salmão no cesto da AirFryer, com a pele virada para baixo.",
+                    "5": "Asse por 15 minutos ou até o salmão estar completamente cozido e dourado por fora.",
+                    "6": "Sirva com um acompanhamento de sua escolha, como legumes grelhados ou salada."
+                  },
+                  "time": "Rápido",
+                  "serve": "2 porções"
+                },
+                {
+                  "name": "Risoto de Cogumelos",
+                  "rate": "5",
+                  "imgLink": "https://static.itdg.com.br/images/622-auto/705ff0a5ea62aba084723e10855f52a1/shutterstock-2396593015.jpg",
+                  "description": "Um risoto cremoso e saboroso feito com uma variedade de cogumelos frescos e finalizado na AirFryer.",
+                  "ingredient": [
+                    "1 xícara de arroz arbóreo",
+                    "200 g de cogumelos variados (shimeji, shiitake, champignon)",
+                    "1 cebola picada",
+                    "2 dentes de alho picados",
+                    "1/2 xícara de vinho branco",
+                    "1 litro de caldo de legumes quente",
+                    "2 colheres de sopa de azeite",
+                    "1/2 xícara de queijo parmesão ralado",
+                    "2 colheres de sopa de manteiga",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "salsinha picada a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Em uma panela, aqueça o azeite e refogue a cebola e o alho até ficarem transparentes.",
+                    "2": "Adicione os cogumelos e cozinhe até que soltem sua água e fiquem macios.",
+                    "3": "Acrescente o arroz arbóreo e refogue por mais alguns minutos.",
+                    "4": "Adicione o vinho branco e cozinhe até evaporar.",
+                    "5": "Comece a adicionar o caldo de legumes, uma concha de cada vez, mexendo sempre até que o arroz esteja cozido e cremoso.",
+                    "6": "Misture o queijo parmesão, a manteiga e a salsinha picada, ajustando o sal e a pimenta.",
+                    "7": "Transfira o risoto para um refratário e finalize na AirFryer a 180 ºC por 5 minutos para gratinar.",
+                    "8": "Sirva imediatamente."
+                  },
+                  "time": "Rápido",
+                  "serve": "4 porções"
+                }
+              ]
+            },
+            "Carnes": {
+              "name": "Carnes",
+              "linkImg": "https://marettimo.com.br/blog/wp-content/uploads/2023/09/bife-suculento-carne-rara-medio-com-especiarias-e-legumes-grelhados-1-2048x1365.jpg",
+              "receitas": [
+                {
+                  "name": "Costelinha de Porco",
+                  "rate": "4",
+                  "imgLink": "https://s2.glbimg.com/ojl29vnndGC8huP0XUUfHNIBz3U=/e.glbimg.com/og/ed/f/original/2016/03/14/costelinha.jpg",
+                  "description": "Costelinhas de porco suculentas e bem temperadas, preparadas na AirFryer para um toque crocante.",
+                  "ingredient": [
+                    "1 kg de costelinhas de porco",
+                    "1 colher de sopa de sal",
+                    "1 colher de chá de pimenta-do-reino",
+                    "2 colheres de sopa de páprica doce",
+                    "1 colher de sopa de alho em pó",
+                    "2 colheres de sopa de azeite"
+                  ],
+                  "preparo": {
+                    "1": "Tempere as costelinhas com sal, pimenta, páprica e alho em pó, esfregando bem os temperos em toda a carne.",
+                    "2": "Pincele as costelinhas com azeite para ajudar na crocância.",
+                    "3": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "4": "Coloque as costelinhas no cesto da AirFryer, em uma única camada.",
+                    "5": "Asse por 25 minutos, virando na metade do tempo para garantir que fiquem douradas e crocantes de todos os lados.",
+                    "6": "Sirva as costelinhas com um acompanhamento de sua preferência, como batatas assadas ou salada."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                },
+                {
+                  "name": "Frango Assado",
+                  "rate": "2",
+                  "imgLink": "https://www.entrepratosecopos.com.br/storage/receitas/imagem1_2370.jpg",
+                  "description": "Frango assado crocante por fora e suculento por dentro, temperado com ervas e especiarias. Preparado na AirFryer para um resultado perfeito.",
+                  "ingredient": [
+                    "1 frango inteiro",
+                    "2 colheres de sopa de azeite",
+                    "1 colher de sopa de sal",
+                    "1 colher de chá de pimenta-do-reino",
+                    "2 colheres de chá de páprica",
+                    "1 colher de chá de alho em pó",
+                    "1 colher de chá de cebola em pó",
+                    "1 colher de chá de tomilho seco"
+                  ],
+                  "preparo": {
+                    "1": "Tempere o frango com sal, pimenta, páprica, alho em pó, cebola em pó e tomilho, esfregando bem os temperos por todo o frango.",
+                    "2": "Pincele o frango com azeite para ajudar na crocância da pele.",
+                    "3": "Preaqueça a AirFryer a 180 ºC por 5 minutos.",
+                    "4": "Coloque o frango no cesto da AirFryer, com o peito virado para baixo.",
+                    "5": "Asse por 50 minutos, virando o frango na metade do tempo para garantir que fique dourado e crocante por todos os lados.",
+                    "6": "Deixe o frango descansar por 10 minutos antes de cortar e servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                },
+                {
+                  "name": "Almôndegas de Carne",
+                  "rate": "4",
+                  "imgLink": "https://s2-receitas.glbimg.com/xopMZAOyRQUBaTXzGX3mN9QMkV4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/1/N/8z0UqcRzm5YWiS8BamhA/almondega.jpeg",
+                  "description": "Almôndegas de carne suculentas e saborosas, preparadas na AirFryer. Perfeitas para servir com molho de tomate e espaguete.",
+                  "ingredient": [
+                    "500 g de carne moída",
+                    "1 ovo",
+                    "1/2 xícara de farinha de rosca",
+                    "1/4 xícara de queijo parmesão ralado",
+                    "2 dentes de alho picados",
+                    "1 colher de chá de sal",
+                    "1/2 colher de chá de pimenta-do-reino",
+                    "1/2 colher de chá de orégano"
+                  ],
+                  "preparo": {
+                    "1": "Em uma tigela grande, misture a carne moída, ovo, farinha de rosca, queijo parmesão, alho, sal, pimenta e orégano até obter uma massa homogênea.",
+                    "2": "Modele a mistura em almôndegas do tamanho desejado.",
+                    "3": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "4": "Coloque as almôndegas no cesto da AirFryer, em uma única camada.",
+                    "5": "Asse por 15 minutos, virando na metade do tempo para garantir que fiquem douradas e cozidas por igual.",
+                    "6": "Sirva as almôndegas com molho de tomate e espaguete."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                }
+              ]
+            },
+            "Aves": {
+              "name": "Aves",
+              "linkImg": "https://www.designi.com.br/images/preview/10177802.jpg",
+              "receitas": [
+                {
+                  "name": "Frango Grelhado com Limão",
+                  "rate": "3",
+                  "imgLink": "https://img.freepik.com/fotos-premium/frango-grelhado-com-manteiga-limao-e-alho-no-prato-branco_1339-146848.jpg",
+                  "description": "Filés de frango marinados com limão e grelhados na AirFryer. Uma opção leve e saborosa para uma refeição rápida.",
+                  "ingredient": [
+                    "4 filés de peito de frango",
+                    "suco de 2 limões",
+                    "2 dentes de alho picados",
+                    "2 colheres de sopa de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "salsinha picada a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Tempere os filés de frango com suco de limão, alho, azeite, sal e pimenta.",
+                    "2": "Deixe marinar por pelo menos 30 minutos para absorver bem os sabores.",
+                    "3": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "4": "Coloque os filés de frango no cesto da AirFryer, em uma única camada.",
+                    "5": "Asse por 15 minutos, virando na metade do tempo para garantir que fiquem dourados e cozidos por igual.",
+                    "6": "Decore com salsinha picada e sirva com um acompanhamento de sua escolha, como arroz ou legumes."
+                  },
+                  "time": "Rápido",
+                  "serve": "4 porções"
+                },
+                {
+                  "name": "Asas de Frango Picantes",
+                  "rate": "4",
+                  "imgLink": "https://www.sabornamesa.com.br/media/k2/items/cache/5f6cc6be54b220e9d450a5b9c3eb9016_XL.jpg",
+                  "description": "Asas de frango temperadas com uma mistura picante e assadas na AirFryer até ficarem crocantes e suculentas.",
+                  "ingredient": [
+                    "1 kg de asas de frango",
+                    "1 colher de sopa de páprica picante",
+                    "1 colher de chá de alho em pó",
+                    "1 colher de chá de cebola em pó",
+                    "1 colher de chá de pimenta caiena",
+                    "2 colheres de sopa de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Tempere as asas de frango com páprica, alho em pó, cebola em pó, pimenta caiena, sal, pimenta e azeite.",
+                    "2": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "3": "Coloque as asas de frango no cesto da AirFryer, em uma única camada.",
+                    "4": "Asse por 25 minutos, virando na metade do tempo para garantir que fiquem douradas e crocantes por todos os lados.",
+                    "5": "Sirva as asas de frango com um molho de sua preferência, como molho de iogurte ou barbecue."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                },
+                {
+                  "name": "Frango à Parmegiana",
+                  "rate": "5",
+                  "imgLink": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/general/frango-%C3%A0-parmegiana-com-chips-de-batata-doce/main-header.jpg",
+                  "description": "Filés de frango empanados e assados na AirFryer, cobertos com molho de tomate e queijo derretido.",
+                  "ingredient": [
+                    "4 filés de peito de frango",
+                    "1 xícara de farinha de rosca",
+                    "1/2 xícara de queijo parmesão ralado",
+                    "2 ovos batidos",
+                    "1 xícara de molho de tomate",
+                    "200 g de queijo mussarela fatiado",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "orégano a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Tempere os filés de frango com sal e pimenta.",
+                    "2": "Passe os filés nos ovos batidos e, em seguida, na mistura de farinha de rosca e queijo parmesão.",
+                    "3": "Preaqueça a AirFryer a 200 ºC por 5 minutos.",
+                    "4": "Coloque os filés de frango no cesto da AirFryer, em uma única camada.",
+                    "5": "Asse por 15 minutos, virando na metade do tempo para garantir que fiquem dourados e crocantes.",
+                    "6": "Cubra os filés com molho de tomate e fatias de mussarela.",
+                    "7": "Retorne à AirFryer e asse por mais 5 minutos ou até o queijo derreter.",
+                    "8": "Polvilhe orégano antes de servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                }
+              ]
+            },
+            "Massas": {
+              "name": "Massas",
+              "linkImg": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/01/27/1190312296-shutterstock213168100-1.jpg",
+              "receitas": [
+                {
+                  "name": "Lasanha de Berinjela",
+                  "rate": "2",
+                  "imgLink": "https://img.cybercook.com.br/receitas/161/lasanha-de-berinjela-3.jpeg",
+                  "description": "Uma lasanha leve e deliciosa feita com fatias de berinjela grelhadas, molho de tomate e queijo.",
+                  "ingredient": [
+                    "2 berinjelas grandes",
+                    "500 ml de molho de tomate",
+                    "300 g de queijo mussarela ralado",
+                    "100 g de queijo parmesão ralado",
+                    "2 dentes de alho picados",
+                    "2 colheres de sopa de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "folhas de manjericão a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Corte as berinjelas em fatias finas e tempere com sal e pimenta.",
+                    "2": "Grelhe as fatias de berinjela na AirFryer a 200 ºC por 5 minutos de cada lado.",
+                    "3": "Em um refratário, monte a lasanha alternando camadas de berinjela, molho de tomate e mussarela.",
+                    "4": "Finalize com queijo parmesão ralado e folhas de manjericão.",
+                    "5": "Asse na AirFryer a 180 ºC por 15 minutos ou até dourar."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                },
+                {
+                  "name": "Macarrão ao Alho e Óleo",
+                  "rate": "3",
+                  "imgLink": "https://static.itdg.com.br/images/622-auto/da8ce89471c966faad0459a9d84bb422/macarrao-alho-e-oleo.jpeg",
+                  "description": "Um clássico da culinária italiana, preparado de maneira simples e rápida na AirFryer.",
+                  "ingredient": [
+                    "200 g de macarrão tipo espaguete",
+                    "4 dentes de alho fatiados",
+                    "1/4 xícara de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "salsinha picada a gosto",
+                    "queijo parmesão ralado a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Cozinhe o macarrão conforme as instruções da embalagem e reserve.",
+                    "2": "Preaqueça a AirFryer a 180 ºC por 5 minutos.",
+                    "3": "Em uma frigideira, aqueça o azeite e doure o alho.",
+                    "4": "Misture o macarrão cozido com o alho e azeite, tempere com sal e pimenta.",
+                    "5": "Coloque a mistura na AirFryer e asse por 5 minutos para finalizar.",
+                    "6": "Salpique salsinha picada e queijo parmesão ralado antes de servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "2 porções"
+                },
+                {
+                  "name": "Ravioli de Queijo com Molho de Tomate",
+                  "rate": "4",
+                  "imgLink": "https://static.itdg.com.br/images/auto-auto/7c1ba9391c665a602445cf3c26246f6e/receitas-de-ravioli.jpg",
+                  "description": "Deliciosos raviolis recheados com queijo, servidos com um saboroso molho de tomate caseiro.",
+                  "ingredient": [
+                    "400 g de ravioli de queijo",
+                    "500 ml de molho de tomate",
+                    "2 dentes de alho picados",
+                    "2 colheres de sopa de azeite",
+                    "sal a gosto",
+                    "pimenta-do-reino a gosto",
+                    "folhas de manjericão a gosto",
+                    "queijo parmesão ralado a gosto"
+                  ],
+                  "preparo": {
+                    "1": "Cozinhe o ravioli conforme as instruções da embalagem e reserve.",
+                    "2": "Preaqueça a AirFryer a 180 ºC por 5 minutos.",
+                    "3": "Em uma panela, aqueça o azeite e doure o alho. Adicione o molho de tomate e cozinhe por 10 minutos. Tempere com sal e pimenta.",
+                    "4": "Misture o ravioli cozido com o molho de tomate.",
+                    "5": "Coloque a mistura na AirFryer e asse por 5 minutos para finalizar.",
+                    "6": "Decore com folhas de manjericão e queijo parmesão ralado antes de servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                }
+              ]
+            },
+            "Sobremesas": {
+              "name": "Sobremesas",
+              "linkImg": "https://www.juliatto.com.br/wp-content/uploads/2022/08/torta-banoffee.jpg",
+              "receitas": [
+                {
+                  "name": "Brownie de Chocolate",
+                  "rate": "5",
+                  "imgLink": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/a400ee35c080a42937396b89567f229f.jpg",
+                  "description": "Brownies de chocolate ricos e úmidos, preparados na AirFryer. Uma delícia para os amantes de chocolate.",
+                  "ingredient": [
+                    "200 g de chocolate meio amargo",
+                    "100 g de manteiga",
+                    "1 xícara de açúcar",
+                    "3 ovos",
+                    "1/2 xícara de farinha de trigo",
+                    "1/4 xícara de cacau em pó",
+                    "1 colher de chá de essência de baunilha",
+                    "1 pitada de sal"
+                  ],
+                  "preparo": {
+                    "1": "Derreta o chocolate e a manteiga em banho-maria ou no micro-ondas.",
+                    "2": "Em uma tigela, misture o açúcar, os ovos e a essência de baunilha.",
+                    "3": "Adicione a mistura de chocolate derretido e mexa bem.",
+                    "4": "Peneire a farinha, o cacau em pó e o sal, e incorpore à mistura.",
+                    "5": "Preaqueça a AirFryer a 160 ºC por 5 minutos.",
+                    "6": "Despeje a massa em uma forma adequada para AirFryer e asse por 25 minutos.",
+                    "7": "Deixe esfriar antes de cortar e servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "6 porções"
+                },
+                {
+                  "name": "Pudim de Leite Condensado",
+                  "rate": "4",
+                  "imgLink": "https://www.receitasnestle.com.br/sites/default/files/2021-07/image%20-%202021-07-23T124017.002.jpg",
+                  "description": "Um pudim clássico e cremoso feito na AirFryer, com um toque especial de caramelo.",
+                  "ingredient": [
+                    "1 lata de leite condensado",
+                    "2 medidas da lata de leite",
+                    "3 ovos",
+                    "1 xícara de açúcar para o caramelo"
+                  ],
+                  "preparo": {
+                    "1": "Prepare o caramelo: derreta o açúcar em uma panela até ficar dourado e despeje em uma forma de pudim.",
+                    "2": "No liquidificador, bata o leite condensado, o leite e os ovos até obter uma mistura homogênea.",
+                    "3": "Despeje a mistura na forma caramelizada.",
+                    "4": "Preaqueça a AirFryer a 180 ºC por 5 minutos.",
+                    "5": "Coloque a forma na AirFryer e asse por 30 minutos.",
+                    "6": "Deixe esfriar e leve à geladeira por pelo menos 4 horas antes de desenformar e servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "6 porções"
+                },
+                {
+                  "name": "Torta de Maçã",
+                  "rate": "3",
+                  "imgLink": "https://assets.unileversolutions.com/recipes-v2/214902.jpg",
+                  "description": "Uma torta de maçã simples e deliciosa, com uma crosta crocante e recheio doce e perfumado.",
+                  "ingredient": [
+                    "4 maçãs descascadas e fatiadas",
+                    "1/2 xícara de açúcar",
+                    "1 colher de chá de canela em pó",
+                    "1 colher de sopa de suco de limão",
+                    "1 massa folhada pronta",
+                    "1 ovo batido para pincelar"
+                  ],
+                  "preparo": {
+                    "1": "Em uma tigela, misture as maçãs, o açúcar, a canela e o suco de limão.",
+                    "2": "Preaqueça a AirFryer a 180 ºC por 5 minutos.",
+                    "3": "Forre uma forma adequada para AirFryer com a massa folhada, deixando uma borda para cobrir o recheio.",
+                    "4": "Despeje o recheio de maçã sobre a massa folhada.",
+                    "5": "Cubra com a borda da massa e pincele com o ovo batido.",
+                    "6": "Asse na AirFryer por 20 minutos ou até a massa ficar dourada e crocante.",
+                    "7": "Deixe esfriar um pouco antes de servir."
+                  },
+                  "time": "Pá-Pum",
+                  "serve": "4 porções"
+                }
+              ]
+            }
+          }
+        }
